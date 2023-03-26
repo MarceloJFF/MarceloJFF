@@ -5,8 +5,7 @@
 -->
 
 - 🔭 I’m currently working on development of web extension for firefox and chrome using javascript  programming language
-- 🌱 I’m currently learning javascript, python for IA
-
+- 🌱 I’m currently learning javascript and python.
 
 <picture>
 <source 
