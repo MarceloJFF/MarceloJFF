@@ -17,9 +17,5 @@
   srcset="https://github-readme-stats.vercel.app/api?username=MarceloJFF&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-  
-
+<img src="https://github-readme-stats.vercel.app/api?username=MarceloJFF&show_icons=true" />
 </picture>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloJFF&repo=github-readme-stats)](https://github.com/MarceloJFF/github-readme-stats)
