@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on development of web extension for firefox and chrome using javascript  programming language
 - 🌱 I’m currently learning javascript and python.
+- I’m currently learning english
+- passionate about knowledge
 
 <picture>
 <source 
