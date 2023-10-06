@@ -4,10 +4,11 @@
 **MarceloJFF/MarceloJFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on development of web extension for firefox and chrome using javascript  programming language
-- 🌱 I’m currently learning javascript and python.
+- I’m currently working on development of web extension for firefox and chrome using javascript  programming language
+- I’m currently learning javascript and python for work projects.
 - I’m currently learning english
 - passionate about knowledge
+- learning  design patterns for my applications
 
 <picture>
 <source 
