@@ -5,7 +5,7 @@
 -->
 
 - I’m currently working on development of web extension for firefox and chrome using javascript  programming language
-- I’m currently working on development of chatbos for whatsapp using dialog flow and flask
+- I’m currently working on development of chatbots for whatsapp using dialog flow and flask
 - I’m currently learning javascript and python for work projects.
 - I’m currently learning english
 - passionate about knowledge
